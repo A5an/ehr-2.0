@@ -9,7 +9,7 @@ Base Paper: https://drive.google.com/file/d/1tOIvS7kitAhr5xyj-7vgLNnkwjTDrNCm/vi
 Node JS : https://nodejs.org/en/download/ <br>
 Python: https://www.python.org/downloads/  <br>
 Angular: npm install -g @angular/cli  <br>
-Truffle: npm install -g truffle      If failed, run :  npm install -g truffle@5.4.29  <br>
+Truffle: npm install -g truffle  <br>    If failed, run :  npm install -g truffle@5.4.29  <br>
 
 Download and install GIT if not installed.
 GIT: https://git-scm.com/downloads
