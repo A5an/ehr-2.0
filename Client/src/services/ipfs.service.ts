@@ -9,7 +9,7 @@ export class IpfsService {
   ipfs: any;
   constructor() {
     this.ipfs = new IPFS({
-      host: 'ipfs.infura.io',
+      host: 'api.pinata.cloud',
       port: 5001,
       protocol: 'https',
     });
